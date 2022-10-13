@@ -6,7 +6,7 @@
 </h2>
  <a id="Kurulum"></a>  Webhook Spammer Kurulum
 
-Kullanım webhook.py dosyasını Visual Studio ile açın ( Cmd yada Terminalde de Açabilirsiniz)
-Visual Studio da terminal kısmından yeni terminal e basın.
-Dosyayı nereye kaydettiyseniz orayı açın (cd Downloads) sonra python webhook.py yazın
-Gerekli alanları doldurun. Iterations kısmına 999 yazabilirsiniz İyi Kullanmalar! 
+1. Kullanım webhook.py dosyasını Visual Studio ile açın ( Cmd yada Terminalde de Açabilirsiniz)
+2. Visual Studio da terminal kısmından yeni terminal e basın.
+3. Dosyayı nereye kaydettiyseniz orayı açın (cd Downloads) sonra python webhook.py yazın
+4. Gerekli alanları doldurun. Iterations kısmına 999 yazabilirsiniz İyi Kullanmalar! 
